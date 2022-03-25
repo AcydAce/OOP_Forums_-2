@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Scratch {
+class PrintArray {
     public static void main(String[] args) {
 
         int numItems;   //declaring variables
